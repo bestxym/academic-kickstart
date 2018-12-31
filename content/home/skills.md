@@ -23,20 +23,20 @@ weight = 7
 
 [[feature]]
  # icon = "r-project"
-  icon_pack = "fab"
-  name = "R"
-  description = "90%"
+  icon_pack = "fas"
+  name = "Hardware Design and Testing"
+  description = "80%"
   
 [[feature]]
 #  icon = "chart-line"
   icon_pack = "fas"
-  name = "Statistics"
-  description = "100%"  
+  name = "Game Theory"
+  description = "70%"  
   
 [[feature]]
  # icon = "camera-retro"
   icon_pack = "fas"
-  name = "Photography"
-  description = "10%"
+  name = "AI"
+  description = "50%"
 
 +++
