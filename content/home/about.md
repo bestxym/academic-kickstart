@@ -23,7 +23,7 @@ weight = 5
   year = 2017
 
 [[education.courses]]
-  course = "Msc in Electric Engineering"
+  course = "MSc in Electric Engineering"
   institution = "Huazhong University of Science and Technology"
   year = 2013
 
