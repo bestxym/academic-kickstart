@@ -18,7 +18,7 @@ authors = ["Yingmeng Xiang","Lingfeng Wang"]
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "In *Electric Power Systems Research*, ElSEVIER."
+publication = "In *Electric Power Systems Research*, ELSEVIER."
 publication_short = "In *MPCE*"
 
 # Abstract and optional shortened version.
@@ -33,7 +33,7 @@ selected = false
 #   E.g. `projects = ["deep-learning"]` references 
 #   `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects = []
+#   projects = []
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
