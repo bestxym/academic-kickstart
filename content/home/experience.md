@@ -19,27 +19,35 @@ date_format = "January 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
-  company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
+  title = "Postdoctoral Researcher"
+  company = "GEIRI North America"
+  company_url = "www.geirina.net"
+  location = "San Jose, California"
+  date_start = "2017-05-22"
   date_end = ""
-  description = """
-  Responsibilities include:
+  description = """Dr. Xiang has been employed at GEIRI North America since May of 2017. In his position, he is responsible for hardware and algorithm developments regarding the applications of the IoT and AI in electrical power systems. 
+  Responsibilities include: 
   
-  * Analysing
-  * Modelling
-  * Deploying
+  * Smart Plug Development and Enhancement
+  * Power System Frequency Regulation 
+  * R&D
   """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
-  company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  title = "Research/Teaching Assistant"
+  company = "The University of Wisconsin-Milwaukee"
+  company_url = "https://uwm.edu/"
+  location = "Miwaukee, WI"
+  date_start = "2014-08-01"
+  date_end = "2017-05-31"
+  description = """In this position, Dr. Xiang performed various duties, including teaching assistant (TA) and research assistant (RA). As a TA, he helped prepare lectures, give recitations, tutor students and guide labs. As an RA, he is responsible to research various kinds of topics. 
+  Responsibilities include: 
 
+  * Power System Reliability Evaluation
+  * Smart Grid Security Analysis
+  * Cascading Failures
+  * Game Theory
+  """
+  
 +++
+
