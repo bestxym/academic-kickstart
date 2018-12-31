@@ -10,31 +10,30 @@ weight = 5
 # List your academic interests.
 [interests]
   interests = [
-    "Artificial Intelligence",
-    "Computational Linguistics",
-    "Information Retrieval"
+    "Inter of Things",
+	"Artificial Intelligence",
+    "Power System Optimization",
+	"Power System Frequency Regulation"
   ]
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
-  course = "PhD in Artificial Intelligence"
-  institution = "Stanford University"
-  year = 2012
+  course = "PhD in Electric Engineering"
+  institution = "University of Wisconsin-Milwaukee"
+  year = 2017
 
 [[education.courses]]
-  course = "MEng in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2009
+  course = "Msc in Electric Engineering"
+  institution = "Huazhong University of Science and Technology"
+  year = 2013
 
 [[education.courses]]
-  course = "BSc in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2008
+  course = "BSc in Electric Engineering"
+  institution = "Chongqing University"
+  year = 2010
  
 +++
 
 # Biography
-
-Lena Smith is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+Yingmeng Xiang joined Global Energy Interconnection Research Institute North America (GEIRINA) in 2017. His current research
+interests focus on Internet of Things, Artificial Intelligence, Power System Frequency Regulation and Demand Response.
