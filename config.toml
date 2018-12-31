@@ -61,7 +61,7 @@ enableGitInfo = false
   organizations = [ { name = "GEIRI North America", url = "http://www.geirina.net" } ]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
-  avatar = "DSC06910.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
+  avatar = "_46A8424.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
 
   # Details for the Contact Widget
   email = "yingmeng.xiang@geirina.net"
