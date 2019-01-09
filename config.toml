@@ -274,6 +274,12 @@ enableGitInfo = false
     icon = "google-scholar"
     icon_pack = "ai"
     link = "https://scholar.google.com/citations?user=bKeeRmoAAAAJ&hl=en"
+    
+    
+  [[params.social]]
+    icon = "linkedin"
+    icon_pack = "fab"
+    link = "https://www.linkedin.com/in/yingmeng-tom-xiang-b088b765 "
 
   #  [[params.social]]
  #     icon = "gitlab"
@@ -281,10 +287,10 @@ enableGitInfo = false
  #    link = "https://gitlab.com/yzae2623"
 
 
-   #   [[params.social]]
-   #   icon = "researchgate"
-   #   icon_pack = "ai"
-   #   link = "https://www.researchgate.net/profile/Zhe_Yu6"
+   [[params.social]]
+   icon = "researchgate"
+   icon_pack = "ai"
+   link = "https://www.researchgate.net/profile/Yingmeng_Xiang"
 
 
 
