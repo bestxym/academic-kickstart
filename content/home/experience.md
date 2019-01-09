@@ -21,11 +21,11 @@ date_format = "January 2006"
 [[experience]]
   title = "Postdoctoral Researcher"
   company = "GEIRI North America"
-  company_url = "www.geirina.net"
+  company_url = "https://www.geirina.net/research/2"
   location = "San Jose, California"
   date_start = "2017-05-22"
   date_end = ""
-  description = """Dr. Xiang has been employed at GEIRI North America since May of 2017. In his position, he is responsible for hardware and algorithm developments regarding the applications of the IoT and AI in electrical power systems. 
+  description = """Dr. Xiang has been employed at GEIRI North America since May of 2017. In his position, he is working with Dr. Di Shi, and responsible for hardware and algorithm developments regarding the applications of the IoT and AI in electrical power systems. 
   Responsibilities include: 
   
   * Smart Plug Development and Enhancement
