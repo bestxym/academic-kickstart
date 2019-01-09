@@ -279,7 +279,7 @@ enableGitInfo = false
   [[params.social]]
     icon = "linkedin"
     icon_pack = "fab"
-    link = "www.linkedin.com/in/yingmeng-tom-xiang-b088b765"
+    link = "https://www.linkedin.com/in/yingmeng-tom-xiang-b088b765"
 
   #  [[params.social]]
  #     icon = "gitlab"
