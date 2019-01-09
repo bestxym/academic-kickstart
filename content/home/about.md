@@ -10,7 +10,7 @@ weight = 5
 # List your academic interests.
 [interests]
   interests = [
-    "Inter of Things",
+    "Internet of Things",
 	"Artificial Intelligence",
     "Power System Optimization",
 	"Power System Frequency Regulation"
@@ -35,4 +35,4 @@ weight = 5
 +++
 
 # Biography
-Yingmeng Xiang joins [Global Energy Interconnection Research Institute North America (GEIRI North America)](https://www.geirina.net/research/2) since 2017.. His current research interests focus on Internet of Things, Artificial Intelligence, Power System Frequency Regulation and Demand Response.
+Yingmeng Xiang joins [Global Energy Interconnection Research Institute North America (GEIRI North America)](https://www.geirina.net/research/2) since 2017. His current research interests focus on Internet of Things, Artificial Intelligence, Power System Frequency Regulation and Demand Response.
