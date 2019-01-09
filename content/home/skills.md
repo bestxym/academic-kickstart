@@ -24,19 +24,19 @@ weight = 7
 [[feature]]
  # icon = "r-project"
   icon_pack = "fas"
-  name = "Hardware Design and Testing"
-  description = "80%"
+  name = "Power System Analysis and Optimization, Power Electronics Design and Testing, Internet of Things"
+  description = ""
   
 [[feature]]
 #  icon = "chart-line"
   icon_pack = "fas"
-  name = "Game Theory"
-  description = "70%"  
+  name = "Game Theory, Robust Optimization, AI"
+  description = ""  
   
 [[feature]]
  # icon = "camera-retro"
   icon_pack = "fas"
-  name = "AI"
-  description = "50%"
+  name = "Matlab,C,Python"
+  description = ""
 
 +++
