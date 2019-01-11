@@ -1,5 +1,5 @@
 +++
-title = "A game-theoretic study of load redistribution attack and defense in power systems"
+title = "ABoutCar A game-theoretic study of load redistribution attack and defense in power systems"
 date = 2018-08-07T00:00:00
 draft = false
 
