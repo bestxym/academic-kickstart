@@ -1,10 +1,10 @@
 +++
 title = "A game-theoretic study of load redistribution attack and defense in power systems"
-date = 2018-06-29T00:00:00
+date = 2018-08-07T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Yingmeng Xiang","Lingfeng Wang"]
+authors = ["Yingmeng Xiang", "Lingfeng Wang"]
 
 # Publication type.
 # Legend:
@@ -34,37 +34,29 @@ selected = false
 #   E.g. `projects = ["deep-learning"]` references 
 #   `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-#   projects = []
-
-# Slides (optional).
-#   Associate this publication with Markdown slides.
-#   Simply enter your slide deck's filename without extension.
-#   E.g. `slides = "example-slides"` references 
-#   `content/slides/example-slides.md`.
-#   Otherwise, set `slides = ""`.
-#slides = "example-slides"
+#   projects = ["WAMS"]
 
 # Tags (optional).
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
-tags = ["Game Theory","Power System Security"]
+tags = ["Game Theory","State Estimation"]
 
 # Links (optional).
 url_pdf = "https://www.sciencedirect.com/science/article/abs/pii/S0378779617302092"
-#url_preprint = "https://arxiv.org/ftp/arxiv/papers/1708/1708.06424.pdf"
-#url_code = ""
-#url_dataset = ""
+#url_preprint = "https://arxiv.org/ftp/arxiv/papers/1706/1706.05419.pdf"
+#url_code = "#"
+#url_dataset = "#"
 #url_project = ""
-#url_slides = ""
-#url_video = ""
-#url_poster = ""
-#url_source = ""
+#url_slides = "#"
+#url_video = "#"
+#url_poster = "#"
+#url_source = "#"
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-# url_custom = [{name = "Custom Link", url = "http://example.org"}]
+#url_custom = [{name = "Custom Link", url = "http://example.org"}]
 
 # Digital Object Identifier (DOI)
-#doi = "https://doi.org/10.1007/s40565-018-0443-z"
+# doi = "10.1109/TSG.2018.2864176"
 
 # Does this page contain LaTeX math? (true/false)
 math = false
@@ -73,9 +65,12 @@ math = false
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 [image]
   # Caption (optional)
-  caption = "Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)"
+  caption = "Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)"
 
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
   focal_point = ""
 +++
+
+
+
