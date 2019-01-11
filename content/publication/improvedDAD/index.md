@@ -1,6 +1,6 @@
 +++
-title = "An Improved Defender-Attacker-Defender Model for Transmission Line Defense Considering Offensive Resource Uncertainties"
-date = 2018-02-07T00:00:00
+title = "A game-theoretic study of load redistribution attack and defense in power systems"
+date = 2018-08-07T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
@@ -18,12 +18,12 @@ authors = ["Yingmeng Xiang", "Lingfeng Wang"]
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "In *IEEE Transactions on Smart Grid*, IEEE."
-publication_short = "In *IEEETSG*"
+publication = "In *Electric Power Systems Research*, ELSEVIER."
+publication_short = "In *MPCE*"
 
 # Abstract and optional shortened version.
-abstract = "Developing efficient strategies for defending electric power systems against attacks is a major concern for contemporary power grids, especially when uncertainties are involved. This paper addresses the allocation of the defensive resource to minimize the damage when there are uncertainties regarding the resource that the attacker has. A multiple-attack-scenario (MAS) defender-attacker-defender (DAD) model is proposed by extending the conventional trilevel defender-attacker-defender model. The proposed model considers the uncertainties related to the offensive resource and the interactions involving the security personnel at the top-level, the attacker at the middle-level, and the power system operator at the bottom-level. The Column-and-Constraint Generation (C&amp;CG) algorithm is implemented by decomposing the MAS defender-attacker-defender model into an upper-level problem (ULP) for the security personnel, and a lower-level problem (LLP) for the attacker involving the optimal power flow analysis-based corrective power re-dispatch implemented by the power system operator. Case studies are performed based on the IEEE RTS79 and 57-bus systems, and the results validate that the proposed method is able to minimize the damage when uncertainties are involved in the offensive resource. This work can offer meaningful insights into power system protection involving uncertainties."
-abstract_short = "An improved defender-attacker-defender model considering uncertainties is proposed."
+abstract = "The wide deployment of advanced computer technologies in power systems monitoring and control will inevitably make the power grid more vulnerable to various cyber attacks. Load redistribution (LR) attack is regarded as a typical and viable cyber attack against power grids, which may mislead the power re-dispatch and cause unnecessary load loss. It is critical to develop methods for optimal allocation of limited defensive resources to safeguard the power grid, especially those considering the probabilistic behaviors of the attackers. To prevent the LR attacks, the optimal budget allocation and the game-theoretic attack and defense interaction are studied in this paper. Specifically, the attack and defense interactions are incorporated in the bilevel modeling of LR attacks. A few important substations are selected based on their criticality as cyber protection targets. For defending the critical substations, an optimal budget allocation strategy is developed to minimize the expected load loss subjected to the attacker’s capability. Further, cybersecurity reinforcement strategies are studied using game-theory based approaches for different attack scenarios. The proposed methods are tested in different scenarios based on an IEEE test system, and the simulation results validate that the proposed methods are effective. This study offers new insight into preventing and mitigating the LR attack effectively."
+abstract_short = "A method based on game theory is developed to deal with the load redistribution attacks."
 
 # Is this a selected publication? (true/false)
 selected = false
@@ -38,11 +38,11 @@ selected = false
 
 # Tags (optional).
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
-tags = ["Trilevel Optimization","Attack Uncertainty"]
+tags = ["Game Theory","State Estimation"]
 
 # Links (optional).
-url_pdf = "https://ieeexplore.ieee.org/abstract/document/8286941"
-#url_preprint = "https://ieeexplore.ieee.org/abstract/document/8286941"
+url_pdf = "https://www.sciencedirect.com/science/article/abs/pii/S0378779617302092"
+#url_preprint = "https://arxiv.org/ftp/arxiv/papers/1706/1706.05419.pdf"
 #url_code = "#"
 #url_dataset = "#"
 #url_project = ""
