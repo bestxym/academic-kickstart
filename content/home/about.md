@@ -35,4 +35,6 @@ weight = 5
 +++
 
 # Biography
-Yingmeng Xiang joins [Global Energy Interconnection Research Institute North America (GEIRI North America)](https://www.geirina.net/research/2) since 2017. His current research interests focus on Internet of Things, Artificial Intelligence, Power System Frequency Regulation and Demand Response.
+Dr. Yingmeng Xiang joins [Global Energy Interconnection Research Institute North America (GEIRI North America)](https://www.geirina.net/research/2) since 2017. His current research interests focus on Internet of Things, Artificial Intelligence, Power System Frequency Regulation and Demand Response.
+
+Dr. Xiang has authored/co-authored over 40 journal and conference papers. He is a regular reviewer for prestigious journals including IEEE Transactions on Smart Grid and IEEE Transactions on Power Systems, and received the Best Reviewer Award of IEEE Transactions on Smart Grid in 2015. He received the 2018 outstanding researcher award from GEIRINA, and the Distinguished Graduate Student Fellowship from the University of Wisconsin-Milwaukee in 2016.
