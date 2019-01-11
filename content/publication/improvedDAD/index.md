@@ -38,7 +38,7 @@ selected = false
 
 # Tags (optional).
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
-tags = ["Trilevel Optimization","Attack Uncertainties"]
+tags = ["Trilevel Optimization","Attack Uncertainty"]
 
 # Links (optional).
 url_pdf = "https://ieeexplore.ieee.org/abstract/document/8286941"
