@@ -1,6 +1,6 @@
 +++
 # Project title.
-title = "IoT for Power Systems - "Grid Sense""
+title = "IoT for Power Systems"
 
 # Date this page was created.
 date = 2019-01-10T00:00:00
