@@ -1,5 +1,5 @@
 +++
-title = "sssAn Improved Defender-Attacker-Defender Model for Transmission Line Defense Considering Offensive Resource Uncertainties"
+title = "AAAAn Improved Defender-Attacker-Defender Model for Transmission Line Defense Considering Offensive Resource Uncertainties"
 date = 2018-08-07T00:00:00
 draft = false
 
@@ -23,6 +23,7 @@ publication_short = "In *IEEETSG*"
 
 # Abstract and optional shortened version.
 abstract = "Developing efficient strategies for defending electric power systems against attacks is a major concern for contemporary power grids, especially when uncertainties are involved. This paper addresses the allocation of the defensive resource to minimize the damage when there are uncertainties regarding the resource that the attacker has. A multiple-attack-scenario (MAS) defender-attacker-defender (DAD) model is proposed by extending the conventional trilevel defender-attacker-defender model. The proposed model considers the uncertainties related to the offensive resource and the interactions involving the security personnel at the top-level, the attacker at the middle-level, and the power system operator at the bottom-level. The Column-and-Constraint Generation (C&amp;CG) algorithm is implemented by decomposing the MAS defender-attacker-defender model into an upper-level problem (ULP) for the security personnel, and a lower-level problem (LLP) for the attacker involving the optimal power flow analysis-based corrective power re-dispatch implemented by the power system operator. Case studies are performed based on the IEEE RTS79 and 57-bus systems, and the results validate that the proposed method is able to minimize the damage when uncertainties are involved in the offensive resource. This work can offer meaningful insights into power system protection involving uncertainties."
+abstract_short = "An improved defender-attacker-defender considering uncertainties is developed."
 
 # Is this a selected publication? (true/false)
 selected = false
@@ -37,7 +38,7 @@ selected = false
 
 # Tags (optional).
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
-# tags = ["WAMS","PMU"]
+# tags = ["Trilevel Optimization","Uncertainty"]
 
 # Links (optional).
 url_pdf = "https://ieeexplore.ieee.org/abstract/document/8286941"
