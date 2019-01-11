@@ -1,19 +1,19 @@
 +++
 # Project title.
-title = "iEMS"
+title = "IoT for Power Systems - "Grid Sense""
 
 # Date this page was created.
-date = 2016-04-27T00:00:00
+date = 2019-01-10T00:00:00
 
 # Project summary to display on homepage.
-summary = "An Intellegent energy management system that controls the admittance and scheduling of EV charging."
+summary = "GEIRI North America"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["Machine Learning","Deadline Scheduling", "Restless Bandits","Admission Control"]
+# tags = ["Machine Learning","Deadline Scheduling", "Restless Bandits","Admission Control"]
 
 # Optional external URL for project (replaces project detail page).
-#external_link = ""
+external_link = "https://www.geirina.net/research/2"
 
 # Slides (optional).
 #   Associate this project with Markdown slides.
@@ -37,10 +37,10 @@ tags = ["Machine Learning","Deadline Scheduling", "Restless Bandits","Admission 
 # To use, add an image named `featured.jpg/png` to your project's folder. 
 [image]
   # Caption (optional)
-  caption = "Photo by Zhe Yu"
+  caption = ""
   
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
   focal_point = "Smart"
 +++
-The successful launch of electric vehicles (EVs) depends critically on the availability of convenient and economic charging facilities. The problem of admittance control and scheduling of large-scale charging of EVs by a service provider is considered. A Markov decision process model is introduced in which EVs arrive randomly at a charging facility with random demand and completion deadlines. The service provider faces random charging costs, convex non-completion penalties, and a peak power constraint that limits the maximum number of simultaneous activation of EV chargers.
+Our team together with NARI have developed an innovative cyber-physical system, Grid Sense, for fast and adaptive direct load control based on the Internet of Things (IoT), edge computing, and nonintrusive load monitoring (NILM) technologies. Grid Sense provides a promising cost-effective solution for large-scale deployment of individual load control using existing communication infrastructure in a distributed manner. The Grid Sense system is being implemented in several pilot projects in Jiangsu.
