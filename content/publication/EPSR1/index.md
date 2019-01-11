@@ -1,5 +1,5 @@
 +++
-title = "Online Coherence Identification Using Dynamic Time Warping for Controlled Islanding"
+title = "A game-theoretic study of load redistribution attack and defense in power systems"
 date = 2018-06-29T00:00:00
 draft = false
 
@@ -25,7 +25,7 @@ publication_short = "In *MPCE*"
 abstract = "The wide deployment of advanced computer technologies in power systems monitoring and control will inevitably make the power grid more vulnerable to various cyber attacks. Load redistribution (LR) attack is regarded as a typical and viable cyber attack against power grids, which may mislead the power re-dispatch and cause unnecessary load loss. It is critical to develop methods for optimal allocation of limited defensive resources to safeguard the power grid, especially those considering the probabilistic behaviors of the attackers. To prevent the LR attacks, the optimal budget allocation and the game-theoretic attack and defense interaction are studied in this paper. Specifically, the attack and defense interactions are incorporated in the bilevel modeling of LR attacks. A few important substations are selected based on their criticality as cyber protection targets. For defending the critical substations, an optimal budget allocation strategy is developed to minimize the expected load loss subjected to the attacker’s capability. Further, cybersecurity reinforcement strategies are studied using game-theory based approaches for different attack scenarios. The proposed methods are tested in different scenarios based on an IEEE test system, and the simulation results validate that the proposed methods are effective. This study offers new insight into preventing and mitigating the LR attack effectively."
 
 # Is this a selected publication? (true/false)
-selected = false
+selected = true
 
 # Projects (optional).
 #   Associate this publication with one or more of your projects.
@@ -45,7 +45,7 @@ selected = false
 
 # Tags (optional).
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
-tags = ["WAMS","PMU"]
+tags = ["Game Theory","Power System Security"]
 
 # Links (optional).
 url_pdf = "https://www.sciencedirect.com/science/article/abs/pii/S0378779617302092"
