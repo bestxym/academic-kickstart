@@ -1,6 +1,6 @@
 +++
-title = "A game-theoretic study of load redistribution attack and defense in power systems"
-date = 2018-08-07T00:00:00
+title = "Coordinated attacks on electric power systems in a cyber-physical environment"
+# date = 2018-08-07T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
