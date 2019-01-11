@@ -67,11 +67,11 @@ enableGitInfo = false
   email = "yingmeng.xiang@geirina.net"
   address = "250 W Tasman Drive, STE 100, San Jose, California, 95136, USA"
   office_hours = """
-  Weekday 10:00 to 18:00\\
+  Weekdays 10:00 to 18:00\\
   Otherwise email to book an appointment
   """
-  phone = "(419)508-4416"
-  skype = "bestxym"
+  # phone = "(419)508-4416"
+  # skype = "bestxym"
   telegram = ""
   keybase = ""  # Your keybase.io username.
 
