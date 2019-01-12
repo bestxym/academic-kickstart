@@ -37,10 +37,10 @@ summary = "GEIRI North America"
 # To use, add an image named `featured.jpg/png` to your project's folder. 
 [image]
   # Caption (optional)
-  caption = ""
+  # caption = ""
   
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
-  focal_point = "Smart"
+  # focal_point = "Smart"
 +++
 Our team together with NARI have developed an innovative cyber-physical system, Grid Sense, for fast and adaptive direct load control based on the Internet of Things (IoT), edge computing, and nonintrusive load monitoring (NILM) technologies. Grid Sense provides a promising cost-effective solution for large-scale deployment of individual load control using existing communication infrastructure in a distributed manner. The Grid Sense system is being implemented in several pilot projects in Jiangsu.
