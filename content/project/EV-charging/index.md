@@ -10,7 +10,7 @@ summary = "GEIRI North America"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-# tags = ["Machine Learning","Deadline Scheduling", "Restless Bandits","Admission Control"]
+tags = ["Machine Learning","IoT", "Cloud Computing","Edge Computing"]
 
 # Optional external URL for project (replaces project detail page).
 # external_link = "https://www.geirina.net/research/2"
