@@ -37,7 +37,7 @@ date_format = "January 2006"
   company_url = "https://uwm.edu/"
   location = "Miwaukee, WI"
   date_start = "2014-08-01"
-  date_end = "2017-05-31"
+  date_end = "2017-05-01"
   description = """In this position, Dr. Xiang performed various duties, including teaching assistant (TA) and research assistant (RA). As a TA, he helped prepare lectures, give recitations, tutor students and guide labs. As an RA, he is responsible to research various kinds of topics.  Tasks include: 
   * Power System Reliability Evaluation
   * Smart Grid Security Analysis
@@ -51,7 +51,7 @@ date_format = "January 2006"
   company_url = "http://whmfc.hust.edu.cn/index.htm"
   location = "Wuhan, China"
   date_start = "2013-12-01"
-  date_end = "2010-09-31"
+  date_end = "2010-09-01"
   description = """He worked with Prof. Hongfa Ding to work on the design, testing and analysis of high-power pulsed power electronics device. Tasks include: 
 
   """
