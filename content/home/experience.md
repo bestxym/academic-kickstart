@@ -19,15 +19,13 @@ date_format = "January 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "Postdoctoral Researcher"
+  title = "Intern/Research Associate/Postdoctoral Researcher"
   company = "GEIRI North America"
   company_url = "https://www.geirina.net/research/2"
   location = "San Jose, California"
   date_start = "2017-05-22"
   date_end = ""
-  description = """Dr. Xiang has been employed at GEIRI North America since May of 2017. In his position, he is working with Dr. Di Shi, and responsible for hardware and algorithm developments regarding the applications of the IoT and AI in electrical power systems. 
-  Responsibilities include: 
-  
+  description = """he has been working with Dr. Di Shi since 2017, and is responsible for hardware and algorithm developments regarding the applications of the IoT and AI in electrical power systems. Tasks include:   
   * Smart Plug Development and Enhancement
   * Power System Frequency Regulation 
   * R&D
@@ -40,14 +38,24 @@ date_format = "January 2006"
   location = "Miwaukee, WI"
   date_start = "2014-08-01"
   date_end = "2017-05-31"
-  description = """In this position, Dr. Xiang performed various duties, including teaching assistant (TA) and research assistant (RA). As a TA, he helped prepare lectures, give recitations, tutor students and guide labs. As an RA, he is responsible to research various kinds of topics. 
-  Responsibilities include: 
-
+  description = """In this position, Dr. Xiang performed various duties, including teaching assistant (TA) and research assistant (RA). As a TA, he helped prepare lectures, give recitations, tutor students and guide labs. As an RA, he is responsible to research various kinds of topics.  Tasks include: 
   * Power System Reliability Evaluation
   * Smart Grid Security Analysis
   * Cascading Failures
   * Game Theory
   """
   
+  [[experience]]
+  title = "Student Researcher"
+  company = "Wuhan National High Magnetic Field Center"
+  company_url = "http://whmfc.hust.edu.cn/index.htm"
+  location = "Wuhan, China"
+  date_start = "2013-12-01"
+  date_end = "2010-09-31"
+  description = """He worked with Prof. Hongfa Ding to work on the design, testing and analysis of high-power pulsed power electronics device. Tasks include: 
+  * 10 kW/10 kV LLC capacitor charging device
+  * High-power high-frequency transformers (20 kW/20 kV/15 kHz)
+  * 10 kW repetitive pulsed system
+  """
 +++
 
