@@ -4,7 +4,7 @@ date = 2018-08-07T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Yingmeng Xiang", "Lingfeng Wang"]
+authors = ["**Yingmeng Xiang**", "Lingfeng Wang"]
 
 # Publication type.
 # Legend:
@@ -19,11 +19,11 @@ publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
 publication = "In *Electric Power Systems Research*, ELSEVIER."
-publication_short = "In *MPCE*"
+publication_short = "In *EPSR*"
 
 # Abstract and optional shortened version.
 abstract = "The wide deployment of advanced computer technologies in power systems monitoring and control will inevitably make the power grid more vulnerable to various cyber attacks. Load redistribution (LR) attack is regarded as a typical and viable cyber attack against power grids, which may mislead the power re-dispatch and cause unnecessary load loss. It is critical to develop methods for optimal allocation of limited defensive resources to safeguard the power grid, especially those considering the probabilistic behaviors of the attackers. To prevent the LR attacks, the optimal budget allocation and the game-theoretic attack and defense interaction are studied in this paper. Specifically, the attack and defense interactions are incorporated in the bilevel modeling of LR attacks. A few important substations are selected based on their criticality as cyber protection targets. For defending the critical substations, an optimal budget allocation strategy is developed to minimize the expected load loss subjected to the attacker’s capability. Further, cybersecurity reinforcement strategies are studied using game-theory based approaches for different attack scenarios. The proposed methods are tested in different scenarios based on an IEEE test system, and the simulation results validate that the proposed methods are effective. This study offers new insight into preventing and mitigating the LR attack effectively."
-abstract_short = "A method based on game theory is developed to deal with the load redistribution attacks."
+abstract_short = "EPSR paper: A method based on game theory is developed to deal with the load redistribution attacks."
 
 # Is this a selected publication? (true/false)
 selected = false
