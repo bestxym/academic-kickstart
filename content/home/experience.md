@@ -53,9 +53,7 @@ date_format = "January 2006"
   date_start = "2013-12-01"
   date_end = "2010-09-31"
   description = """He worked with Prof. Hongfa Ding to work on the design, testing and analysis of high-power pulsed power electronics device. Tasks include: 
-  * 10 kW/10 kV LLC capacitor charging device
-  * High-power high-frequency transformers (20 kW/20 kV/15 kHz)
-  * 10 kW repetitive pulsed system
+
   """
 +++
 
