@@ -36,7 +36,7 @@ weight = 7
 [[feature]]
  # icon = "camera-retro"
   icon_pack = "fas"
-  name = "Matlab,  C/C++,  Python"
+  name = "Matlab,  C/C++,  Embeded System, Python (learning)"
   description = ""
 
 +++
