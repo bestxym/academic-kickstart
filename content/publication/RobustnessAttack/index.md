@@ -4,7 +4,7 @@ date = 2018-09-07T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Yingmeng Xiang", "Lingfeng Wang", "Nian Liu"]
+authors = ["**Yingmeng Xiang**", "Lingfeng Wang", "Nian Liu"]
 
 # Publication type.
 # Legend:
@@ -23,7 +23,7 @@ publication_short = "In *IEEETSG*"
 
 # Abstract and optional shortened version.
 abstract = "Power system operation is facing increasing cyber and physical attack risks, so it becomes pressing to develop effective methods to improve the robustness of electric power infrastructure in the presence of significant attacks. As it is not guaranteed that attacks can always be detected and thwarted before they cause disturbances and damages to the power systems, increased robustness can contribute to reducing the consequence of attacks. In this paper, a holistic robustness framework is proposed by extending the conventional security-constrained optimal power flow (SCOPF) analysis to incorporate the risk caused by attacks. The corresponding solution methodology is proposed by combining particle swarm optimization and primal-dual interior point methods. Case studies conducted based on several test systems demonstrate that the proposed SCOPF model is able to reduce the consequence of attacks. This paper can provide some insight into improving the power system operation robustness in the face of significant attacks." 
-abstract_short = "A novel method is developed to derive the robust power system states which can resist attacks."
+abstract_short = "IEEE TSG paper: A novel method is developed to derive the robust power system states which can resist attacks."
 
 # Is this a selected publication? (true/false)
 selected = false
