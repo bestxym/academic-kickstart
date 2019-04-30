@@ -19,7 +19,7 @@ date_format = "January 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "Intern/Research Associate/Postdoctoral Researcher"
+  title = "Intern/Research Associate/Postdoctoral Researcher/Research Engineer"
   company = "GEIRI North America"
   company_url = "https://www.geirina.net/research/2"
   location = "San Jose, California"
